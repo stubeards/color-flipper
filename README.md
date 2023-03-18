@@ -1,3 +1,3 @@
 # Color Flipper Project
 
-A simple vanilla JavaScript project. 
+A simple vanilla JavaScript project!
